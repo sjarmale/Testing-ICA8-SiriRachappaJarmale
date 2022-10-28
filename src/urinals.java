@@ -22,8 +22,9 @@ public class urinals {
         if (!this.goodString(str)) {
             return -1;
         }
-        for(int i=0; i<n-1; i++ ){
-            if(i==0 && str.charAt(i)=='0' && str.charAt(i+1)=='0') {
+        for(int i=0; i<n; i++){
+            if((i==0 && str.charAt(i)=='0' && str.charAt(i+1)=='0') ||
+               (i==n-1 && str.charAt(i)=='0' && str.charAt(i-1)=='0')) {
                 counter++;
                 str = str.substring(0, i) + '1'
                         + str.substring(i + 1);

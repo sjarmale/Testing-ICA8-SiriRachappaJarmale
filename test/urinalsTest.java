@@ -46,4 +46,11 @@ public class urinalsTest {
         Assertions.assertEquals(actualResult, 0);
     }
 
+    @Test
+    public void testCountFreeUrinals3() {
+        int actualResult= urinal.countFreeUrinals("00000");
+        System.out.println("===== Siri Jarmale == TEST SEVEN EXECUTED =====");
+        Assertions.assertEquals(actualResult, 3);
+    }
+
 }
