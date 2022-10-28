@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11a555f0-7f89-4fb3-92c6-66cf9604d304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/urinal.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing-ICA8-SiriRachappaJarmale/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Testing-ICA8-SiriRachappaJarmale/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing-ICA8-SiriRachappaJarmale/urinals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Testing-ICA8-SiriRachappaJarmale/urinals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/urinals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/urinals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/urinalsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/urinalsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +39,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.urinalsTest.testCountFreeUrinals4">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Testing-ICA8-SiriRachappaJarmale" />
@@ -93,8 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.urinalsTest.testCountFreeUrinals4" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.urinalsTest" />
         <item itemvalue="JUnit.urinalsTest.testCountFreeUrinals3" />
         <item itemvalue="JUnit.urinalsTest.testCountFreeUrinals2" />
@@ -109,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666907690746</updated>
-      <workItem from="1666907694928" duration="10301000" />
+      <workItem from="1666907694928" duration="10684000" />
     </task>
     <servers />
   </component>
