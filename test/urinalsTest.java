@@ -11,4 +11,11 @@ public class urinalsTest {
         Assertions.assertEquals(actualResult, false);
     }
 
+    @Test
+    public void testGoodStringReturnsTrue(){
+        Boolean actualResult= urinal.goodString("10010101");
+        System.out.println("===== Siri Jarmale == TEST TWO EXECUTED =====");
+        Assertions.assertEquals(actualResult, true);
+    }
+
 }
