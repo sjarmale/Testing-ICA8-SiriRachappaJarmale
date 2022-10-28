@@ -18,4 +18,11 @@ public class urinalsTest {
         Assertions.assertEquals(actualResult, true);
     }
 
+    @Test
+    public void testGoodStringReturnsFalseForRandomString(){
+        Boolean actualResult= urinal.goodString("SIRIJARMALE");
+        System.out.println("===== Siri Jarmale == TEST THREE EXECUTED =====");
+        Assertions.assertEquals(actualResult, false);
+    }
+
 }
