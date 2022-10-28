@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11a555f0-7f89-4fb3-92c6-66cf9604d304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing-ICA8-SiriRachappaJarmale.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Testing-ICA8-SiriRachappaJarmale.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urinal.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Testing-ICA8-SiriRachappaJarmale/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Testing-ICA8-SiriRachappaJarmale/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Testing-ICA8-SiriRachappaJarmale/urinals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Testing-ICA8-SiriRachappaJarmale/urinals.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -42,7 +39,19 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.urinalsTest">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Testing-ICA8-SiriRachappaJarmale" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="urinalsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testing-ICA8-SiriRachappaJarmale" />
       <option name="PACKAGE_NAME" value="" />
@@ -52,11 +61,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="urinalsTest.testGoodString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="urinalsTest.testCountFreeUrinals2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Testing-ICA8-SiriRachappaJarmale" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="urinalsTest" />
-      <option name="METHOD_NAME" value="testGoodString" />
+      <option name="METHOD_NAME" value="testCountFreeUrinals2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="urinalsTest.testCountFreeUrinals3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing-ICA8-SiriRachappaJarmale" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="urinalsTest" />
+      <option name="METHOD_NAME" value="testCountFreeUrinals3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="urinalsTest.testCountFreeUrinals4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing-ICA8-SiriRachappaJarmale" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="urinalsTest" />
+      <option name="METHOD_NAME" value="testCountFreeUrinals4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,8 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.urinalsTest.testCountFreeUrinals4" />
         <item itemvalue="JUnit.urinalsTest" />
-        <item itemvalue="JUnit.urinalsTest.testGoodString" />
+        <item itemvalue="JUnit.urinalsTest.testCountFreeUrinals3" />
+        <item itemvalue="JUnit.urinalsTest.testCountFreeUrinals2" />
       </list>
     </recent_temporary>
   </component>
@@ -77,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666907690746</updated>
-      <workItem from="1666907694928" duration="4067000" />
+      <workItem from="1666907694928" duration="10301000" />
     </task>
     <servers />
   </component>
