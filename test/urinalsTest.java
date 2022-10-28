@@ -25,4 +25,11 @@ public class urinalsTest {
         Assertions.assertEquals(actualResult, false);
     }
 
+    @Test
+    public void testCountFreeUrinalsForInvalidString() {
+        int actualResult= urinal.countFreeUrinals("11001");
+        System.out.println("===== Siri Jarmale == TEST FOUR EXECUTED =====");
+        Assertions.assertEquals(actualResult, -1);
+    }
+
 }

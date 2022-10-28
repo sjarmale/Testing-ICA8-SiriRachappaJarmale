@@ -11,6 +11,8 @@ public class Main {
         } else {
             System.out.println(input + " is not a good string");
         }
+        int freeUrinals = obj.countFreeUrinals(input);
+        System.out.println("Number of free urinals: " + freeUrinals);
     }
 
 }
